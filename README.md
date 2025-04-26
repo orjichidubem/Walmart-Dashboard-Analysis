@@ -84,7 +84,7 @@ group by holiday flag
 
 ### Results And Findings
 
-The potential findings are summarized as follows;
+The potential findings are summarized as follows:
 1. Weekly sales vary significantly across different CPIs(Consumer Price Index), indicating price sensitivity.
 2. Holiday flags show increased sales during holidays, highlighting seasonal trends.
 3. Sales patterns differ across quarters, possibly due to seasonal trends.
